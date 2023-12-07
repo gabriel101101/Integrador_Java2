@@ -1,0 +1,9 @@
+controlers\exceptions\PreexistingEntityException.class
+models\Tecnico_.class
+controlers\Controllers.class
+com\mycompany\mavenproject1\Mavenproject1.class
+models\Tecnico.class
+controlers\PersistenceControler.class
+controlers\exceptions\NonexistentEntityException.class
+controlers\TecnicoJpaController.class
+controlers\exceptions\IllegalOrphanException.class
